@@ -7,5 +7,4 @@ It provides us free connection and getting data from internet. Because of this r
 we can show to people weather condition on the our website. 
 
 
-
 ![image](https://user-images.githubusercontent.com/58256667/118403983-b0e49300-b679-11eb-9288-4f00b8134670.png)
